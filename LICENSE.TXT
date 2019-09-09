@@ -1,0 +1,6 @@
+1-) Lisanscı sistemini kullanan kullanıcı her türlü sorumluluğu kabul etmiş sayılır. (Lisanscı oluşacak hatalardan sorumlu değildir.)
+2-) Kayıt olan kişinin IP adresi güvenlik amacıyla kayıt altında tutulur.
+3-) Dosya lisanslandıktan sonra dosya şifreleme işlemleri kullanıcıya aittir.
+4-) Ücretli paketler güvenlik sebebi ile alındıktan sonra iade edilemez.
+5-) Kullanıcının hesabını başkalarıyla paylaşması durumunda oluşabilecek her türlü sorundan kullanıcı sorumludur.
+6-) Sistemin akışını bozacak işlem yapıldığı takdirde kullanıcının hesabı ve tüm verileri silinir.
